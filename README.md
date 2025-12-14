@@ -311,12 +311,6 @@ This program was developed by applying the content learned in the network progra
    - Frame-based message structure
    - Connection state monitoring via heartbeat
 
----
-
-# 📖 상세 설명 · Detailed Documentation
-
-더 자세한 내용은 "프로그램 설명서.txt" 파일을 참고하세요.
-For more detailed information, please refer to the "프로그램 설명서.txt" file.
 
 ---
 
@@ -329,13 +323,3 @@ For more detailed information, please refer to the "프로그램 설명서.txt" 
 
 ---
 
-# 📝 라이선스 · License
-
-이 프로그램은 교육 목적으로 개발되었습니다.
-This program was developed for educational purposes.
-
----
-
-================================================================================
-                            작성 완료
-================================================================================
