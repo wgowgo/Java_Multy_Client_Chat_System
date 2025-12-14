@@ -149,13 +149,13 @@ java ChatClient 127.0.0.1 5555
 After connection, enter nickname and start chatting.
 
 Main commands:
-/join <room>       - Join a room
-/leave             - Leave current room
-/rooms             - List all rooms
-/users             - List all users
-/w <nick> <msg>    - Send whisper
-/history [room] [count] - Get chat history
-/quit              - Disconnect
+/join <room>       - Join a room<br/>
+/leave             - Leave current room<br/>
+/rooms             - List all rooms<br/>
+/users             - List all users<br/>
+/w <nick> <msg>    - Send whisper<br/>
+/history [room] [count] - Get chat history<br/>
+/quit              - Disconnect<br/>
 
 ### 3) Start GUI Client
 In command prompt or terminal:
