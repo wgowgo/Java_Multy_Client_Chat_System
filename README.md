@@ -1,4 +1,3 @@
-================================================================================
 # 📘 Java 멀티 클라이언트 채팅 시스템
 ## 🇰🇷 채팅 프로그램 · 🇺🇸 Multi-Client Chat System
 
@@ -322,4 +321,5 @@ This program was developed by applying the content learned in the network progra
 - 개발 도구: 텍스트 에디터 또는 IDE (IntelliJ IDEA, Eclipse 등)
 
 ---
+<img width="1917" height="1035" alt="image" src="https://github.com/user-attachments/assets/9e17e3a0-2d49-4ad1-a7e0-e833f59a0a9e" />
 
