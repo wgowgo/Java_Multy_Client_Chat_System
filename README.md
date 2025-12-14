@@ -48,18 +48,17 @@
 # 📂 파일 구조 · File Structure
 
 CK_Network_Final/
-├── ChatServer.java                  ← 메인 서버 클래스
-├── ClientSession.java               ← 클라이언트 세션 관리
-├── MessageHistory.java              ← 메시지 히스토리 관리
-├── ServerConfig.java                ← 서버 설정 관리
-├── Logger.java                      ← 로깅 시스템
-├── Frame.java                       ← 네트워크 프레임 프로토콜
-├── MsgType.java                     ← 메시지 타입 정의
-├── Kvp.java                         ← Key-Value 인코딩/디코딩
-├── ChatClient.java                  ← 콘솔 기반 클라이언트
-├── ChatClientGUI.java               ← GUI 기반 클라이언트 (Swing)
-├── 프로그램 설명서.txt              ← 상세 설명서
-└── 프로그램_README.txt              ← 이 파일
+├── ChatServer.java                  ← 메인 서버 클래스<br/>
+├── ClientSession.java               ← 클라이언트 세션 관리<br/>
+├── MessageHistory.java              ← 메시지 히스토리 관리<br/>
+├── ServerConfig.java                ← 서버 설정 관리<br/>
+├── Logger.java                      ← 로깅 시스템<br/>
+├── Frame.java                       ← 네트워크 프레임 프로토콜<br/>
+├── MsgType.java                     ← 메시지 타입 정의<br/>
+├── Kvp.java                         ← Key-Value 인코딩/디코딩<br/>
+├── ChatClient.java                  ← 콘솔 기반 클라이언트<br/>
+└──  ChatClientGUI.java               ← GUI 기반 클라이언트 (Swing)<br/>
+
 
 
 ---
