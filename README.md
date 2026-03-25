@@ -1,5 +1,5 @@
-# 📘 Java 멀티 클라이언트 채팅 시스템
-## 🇰🇷 채팅 프로그램 · 🇺🇸 Multi-Client Chat System
+# Java 멀티 클라이언트 채팅 시스템
+## 🇰🇷 채팅 프로그램 🇺🇸 Multi-Client Chat System
 
 ### Java를 기반으로 개발된 멀티 클라이언트 채팅 서버-클라이언트 시스템입니다.  
 ### 서버는 여러 클라이언트의 동시 접속을 처리하며, 콘솔 또는 GUI 인터페이스를 통해  
@@ -10,7 +10,7 @@
 
 ---
 
-# ✨ 주요 기능 · Features
+# 주요 기능 Features
 
 ## 🇰🇷 한국어
 - 멀티 스레드 기반 동시 접속 처리  
@@ -44,7 +44,7 @@
 
 ---
 
-# 파일 구조 · File Structure
+# 파일 구조 File Structure
 
 CK_Network_Final/
 ├── ChatServer.java                  ← 메인 서버 클래스<br/>
@@ -62,7 +62,7 @@ CK_Network_Final/
 
 ---
 
-# 사용 방법 · How to Use
+# 사용 방법 How to Use
 
 ## 🇰🇷 한국어
 
@@ -190,7 +190,7 @@ GUI Features:
 
 ---
 
-# 기술적 특징 · Technical Features
+# 기술적 특징 Technical Features
 
 ## 🇰🇷 한국어
 
@@ -238,7 +238,7 @@ GUI Features:
 
 ---
 
-# ⚠ 주의 사항 · Notes
+# 주의 사항 Notes
 
 ## 🇰🇷 한국어
 - 서버는 기본 포트 5555를 사용합니다  
@@ -262,7 +262,7 @@ GUI Features:
 
 ---
 
-# 수업 내용 적용 · Course Content Application
+# 수업 내용 적용 Course Content Application
 
 ## 🇰🇷 한국어
 
@@ -313,7 +313,7 @@ This program was developed by applying the content learned in the network progra
 
 ---
 
-# 개발 환경 · Development Environment
+# 개발 환경 Development Environment
 
 - 언어: Java
 - 최소 Java 버전: Java 8 이상
